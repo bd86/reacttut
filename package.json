@@ -2,7 +2,7 @@
   "name": "react-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bd86.github.io/reacttut",
+  "homepage": "http://bryandavila.io/reacttut",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
